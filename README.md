@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://materializecss.com/">
     <img src="http://materializecss.com/res/materialize.svg" width="150">
@@ -89,3 +90,7 @@ Check out the [CONTRIBUTING document](CONTRIBUTING.md) in the root of the reposi
 
 ## Copyright and license
 Code Copyright 2018 Materialize. Code released under the MIT license.
+=======
+# CompanyProfileWithMaterialize
+Template company profile dengan framework html&amp;css selain bootstrap yaitu materialize
+>>>>>>> 78148e7270784407bc7652709577f21ec0addab4
